@@ -1,0 +1,7 @@
+aid: international-game-technology
+url: https://raw.githubusercontent.com/api-evangelist/international-game-technology/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.international-game-technology.com
