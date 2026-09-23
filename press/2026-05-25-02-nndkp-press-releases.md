@@ -1,7 +1,9 @@
 ---
 title: NNDKP Press Releases
 url: https://www.worldservicesgroup.com/releases.asp?action=press&pressid=15111
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"International Game Technology" press release artificial intelligence'
 position: 2
 source: serpapi-google

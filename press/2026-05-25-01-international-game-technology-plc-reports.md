@@ -1,7 +1,9 @@
 ---
 title: INTERNATIONAL GAME TECHNOLOGY PLC REPORTS ...
 url: https://www.prnewswire.com/news-releases/international-game-technology-plc-reports-first-quarter-2025-results-302453117.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"International Game Technology" press release artificial intelligence'
 position: 1
 source: serpapi-google
