@@ -41,10 +41,12 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/international-game-technology/refs/heads/main/apis.yml
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.igt.com/explore-igt/news
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/international-game-technology-vulnerability-disclosure.yml
   - type: DomainSecurity
