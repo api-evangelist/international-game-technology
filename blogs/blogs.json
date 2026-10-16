@@ -1,0 +1,14 @@
+{
+  "repo": "international-game-technology",
+  "feeds": [
+    {
+      "source": "https://www.igt.com/explore-igt/news",
+      "feed_url": "https://www.igt.com/explore-igt/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
